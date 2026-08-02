@@ -1,4 +1,4 @@
-# Mini monitor metereológica via internet
+# Mini monitor metereológico via internet
 ### Pré-Requisitos
 
 1. ESP32-CYD (Placa Desenvolvimento Esp32 Display Touch 2,8 Pol)
